@@ -1,1 +1,16 @@
 Testando arquivo para minha sprint
+Comandos usados para aprendizagem no github
+
+1º git status // informa quais relatórios ja foram incluidos no controle de versão e quais ainda não foram incluidos.
+
+2º git add "nome do arquivo"  // o arquivo foi preparado para o controle de versão
+
+3º git add . // vai adicionar mais de um arquivo
+
+4º git commit -m "oq foi feito na versão"
+
+5º git remote add origin caminho do repositório
+
+6º git push --set-upstream origin master
+
+7º clear // limpar
